@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1670956768 source:c:\users\user\desktop\2 periodo\aedes 1\banco\banco.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"banco.h"
+
+1670956680 c:\users\user\desktop\2 periodo\aedes 1\banco\banco.h
+
+1670956787 source:c:\users\user\desktop\2 periodo\aedes 1\banco\main.c
+	"banco.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

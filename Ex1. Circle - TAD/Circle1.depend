@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1671776317 source:c:\users\user\desktop\circle1\circle.c
+	"circle.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1671776362 c:\users\user\desktop\circle1\circle.h
+	<stdio.h>
+	<stdlib.h>
+
+1671776362 source:c:\users\user\desktop\circle1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1671777069 c:\users\user\desktop\circle1\interface.h
+	<stdlib.h>
+	<stdio.h>
+	"circle.h"
+
+1671777277 source:c:\users\user\desktop\circle1\interface.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"interface.h"
+
